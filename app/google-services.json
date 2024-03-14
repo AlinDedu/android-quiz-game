@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803064173438",
+    "project_id": "quiz-game-3710c",
+    "storage_bucket": "quiz-game-3710c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803064173438:android:4c2c519eecb07f1976d92f",
+        "android_client_info": {
+          "package_name": "com.alindedu.quizgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXK_ct1tRfLm2Zj_zX1J0INtj3mGKjC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
